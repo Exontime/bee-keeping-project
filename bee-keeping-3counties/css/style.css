@@ -22,3 +22,10 @@ body {
   line-height: inherit;
   white-space: nowrap;
 } /*I borrowed this from bootstrap*/
+
+footer {
+    background-color: ##FFE878;
+    color: #fafafa;
+    min-height: 120px;
+    margin: 0;
+}
