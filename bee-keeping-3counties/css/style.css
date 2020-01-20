@@ -3,14 +3,16 @@ body {
   padding: 0;
   font-family: 'Oswald', sans-serif;
   font-size: 20px
-}
+} /*I wrote this for a previous project */
  
 
 .container-md {
     align-content: right;
     padding: 1px 1px 1px 1px;
 
-} 
+} /*I wrote this myself, hence the random values*/
+
+
 .navbar-nav {
  display: inline-block;
   padding-top: 0.3125rem;
@@ -19,4 +21,4 @@ body {
   font-size: 1.25rem;
   line-height: inherit;
   white-space: nowrap;
-}
+} /*I borrowed this from bootstrap*/
