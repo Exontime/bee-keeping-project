@@ -19,3 +19,5 @@ I have used code from previous projects in the style.css.
 it is the modifications to the nav. colors and orientation has been changed to show I understand how the code works.
 
 ### Bootstrap help. 
+Nav bar brand. Used to get the logo on the top of the page. I pulled the image from Facebook to show I could link to an outside source. 
+This needs to be fixed when I get the proper image. 
