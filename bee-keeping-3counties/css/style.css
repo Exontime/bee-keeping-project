@@ -32,4 +32,8 @@ nav a:hover {
   color: #4a4a4f;
 }
 
-container-md 
+container-md {
+    align-content: center;
+    padding: 1px 1px 1px 1px;
+    
+} 
