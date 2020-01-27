@@ -1,6 +1,5 @@
-# 3 counties Bee keepers club page- my project. 
-I have had trouble saving my changes. 
-It migth be because I am using linux? 
+# 3 counties Bee keepers club page- ongoing work project. 
+This branch is the ongoing work with this project for reconsideration.  
 
 My goal for this project is to get the page up and running. 
 Once I have the basics done, I plan on regular updates and add to it as I learn more.
